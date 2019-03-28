@@ -2,7 +2,7 @@
   "name": "@tomcat008/jslib",
   "version": "1.0.0",
   "description": "Test",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "build":"tsc",
     "test": "mocha --reporter spec"
